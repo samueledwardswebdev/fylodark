@@ -84,7 +84,7 @@ header {
 
 .showcase {
   padding: 3rem 0;
-  background: url("/images/bg-curvy-desktop.svg");
+  background: url("../images/bg-curvy-desktop.svg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom;
